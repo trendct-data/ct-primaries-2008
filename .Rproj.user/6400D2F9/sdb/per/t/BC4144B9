@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1461611392269.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BC4144B9",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1461611392269,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "qjy2uah4ow",
+        "caption" : "clinton",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=clinton&cache_key=qjy2uah4ow",
+        "displayedObservations" : "79",
+        "environment" : "",
+        "object" : "clinton",
+        "totalObservations" : "79",
+        "variables" : "3"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

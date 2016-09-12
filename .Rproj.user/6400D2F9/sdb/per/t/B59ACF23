@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1461806689624.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B59ACF23",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1461806689624,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "r34coks5ht",
+        "caption" : "turnout2d",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=turnout2d&cache_key=r34coks5ht",
+        "displayedObservations" : 169,
+        "environment" : "",
+        "object" : "turnout2d",
+        "totalObservations" : 169,
+        "variables" : 2
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

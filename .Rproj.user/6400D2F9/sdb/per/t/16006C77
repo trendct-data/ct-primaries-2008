@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1461806690978.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "16006C77",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1461806690978,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "yj4t7jmz4q",
+        "caption" : "turnout_diff",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=turnout_diff&cache_key=yj4t7jmz4q",
+        "displayedObservations" : 169,
+        "environment" : "",
+        "object" : "turnout_diff",
+        "totalObservations" : 169,
+        "variables" : 3
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

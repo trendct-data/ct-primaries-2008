@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1461806736761.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9F43D7BE",
+    "lastKnownWriteTime" : 4317319168,
+    "last_content_update" : 1461806736761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "rep873ffyt",
+        "caption" : "dem_vote",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dem_vote&cache_key=rep873ffyt",
+        "displayedObservations" : 169,
+        "environment" : "",
+        "object" : "dem_vote",
+        "totalObservations" : 169,
+        "variables" : 3
+    },
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1461727038147.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "24A11740",
+    "lastKnownWriteTime" : 3275072855674454022,
+    "last_content_update" : 1461727038147,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "roeolqsxdm",
+        "caption" : "turnout",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=turnout&cache_key=roeolqsxdm",
+        "displayedObservations" : "169",
+        "environment" : "",
+        "object" : "turnout",
+        "totalObservations" : "169",
+        "variables" : "4"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

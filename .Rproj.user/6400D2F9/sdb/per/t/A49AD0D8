@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1461962968395.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A49AD0D8",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1461962968395,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "r7sfdtzsba",
+        "caption" : "rep_turnout",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=rep_turnout&cache_key=r7sfdtzsba",
+        "displayedObservations" : 169,
+        "environment" : "",
+        "object" : "rep_turnout",
+        "totalObservations" : 169,
+        "variables" : 2
+    },
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1461962778676.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F15AFE03",
+    "lastKnownWriteTime" : 8529659800272271104,
+    "last_content_update" : 1461962778676,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "a3rpgzplhz",
+        "caption" : "rep_vote",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=rep_vote&cache_key=a3rpgzplhz",
+        "displayedObservations" : 169,
+        "environment" : "",
+        "object" : "rep_vote",
+        "totalObservations" : 169,
+        "variables" : 4
+    },
+    "relative_order" : 16,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
